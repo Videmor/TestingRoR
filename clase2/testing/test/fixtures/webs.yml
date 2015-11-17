@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+google:
+  name: Google 
+  url: http://www.google.com 
+  description: Buscador Principal en la actualidad 
+
+rubyonrails:
+  name: RubyonRails 
+  url: http://guides.rubyonrails.org 
+  description: Guide RubyonRails 
